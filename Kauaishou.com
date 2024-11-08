@@ -1,3 +1,4 @@
+[filter]
 hostname, ad.kuaishou.com, reject
 hostname, ad.gifshow.com, reject
 hostname, ad.ksapisrv.com, reject
